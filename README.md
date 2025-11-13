@@ -1,1 +1,1 @@
-Collection of the Sphagnum moss samples and measurements of their reflectance spectra are described in detail in Salko, S.-S., Juola, J., Burdun, I., Vasander, H., Rautiainen, M. (2023). Intra- and interspecific variation in spectral properties of dominant Sphagnum moss species in boreal peatlands. Ecology and Evolution. DOI: 10.1002/ece3.10197.
+
